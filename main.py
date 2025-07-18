@@ -1,16 +1,5 @@
 import os
 import sys
-if getattr(sys, 'frozen', False):
-    os.environ['PATH'] = sys._MEIPASS + os.pathsep + os.environ['PATH']
-
-# Workaround for NumPy/PyInstaller conflict
-try:
-    import numpy
-    numpy.core._multiarray_umath._reload()
-except (ImportError, AttributeError):
-    pass
-
-os.environ["NUMPY_NO_CPU_FEATURES"] = "1"
 import ctypes
 import configparser
 import random
