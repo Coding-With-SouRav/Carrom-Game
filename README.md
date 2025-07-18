@@ -1,5 +1,5 @@
 
-### Core Game Features:
+### Carrom Game Features:
 1. **Authentic Carrom Gameplay**:
    - 2-player carrom board simulation with physics-based mechanics
    - Pocket coins using a striker with realistic collision detection
