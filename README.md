@@ -102,5 +102,3 @@ The game provides a complete digital carrom experience with realistic physics, e
 https://github.com/user-attachments/assets/f097b4ec-14be-49a9-9218-8f2f0b337314
 
 
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 06:40 UTC
